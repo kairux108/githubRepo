@@ -26,7 +26,7 @@
 
     <nav class="sticky top-0 z-50 glass-dark border-b border-white/5 mb-8">
         <div class="container mx-auto px-6 py-4 flex justify-between items-center">
-            <h1 class="text-2xl font-bold tracking-tight gradient-text">Dev.Log</h1>
+            <h1 class="text-2xl font-bold tracking-tight gradient-text">Arc.Dev</h1>
             <div class="hidden md:flex space-x-8 text-sm font-medium text-slate-400">
                 <a href="#" class="hover:text-white transition">Archives</a>
                 <a href="#" class="hover:text-white transition">Projects</a>
@@ -43,7 +43,7 @@
             <h2 class="text-5xl md:text-7xl font-bold tracking-tight mb-4">
                 Latest <span class="text-slate-500 italic font-light">Insights</span>
             </h2>
-            <p class="text-slate-400 text-lg max-w-2xl">Exploring the intersection of Laravel MVC architecture and high-end frontend design.</p>
+            <p class="text-slate-400 text-lg max-w-2xl">AMBOT UG TAMA BA NI.</p>
         </header>
 
         @if($posts->count() > 0)
