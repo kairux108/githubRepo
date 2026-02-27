@@ -43,7 +43,7 @@
             <h2 class="text-5xl md:text-7xl font-bold tracking-tight mb-4">
                 Latest <span class="text-slate-500 italic font-light">Insights</span>
             </h2>
-            <p class="text-slate-400 text-lg max-w-2xl">AMBOT UG TAMA BA NI.</p>
+            <p class="text-slate-400 text-lg max-w-2xl">Where backend logic meets frontend creativity — documenting builds, bugs, and breakthroughs.</p>
         </header>
 
         @if($posts->count() > 0)
